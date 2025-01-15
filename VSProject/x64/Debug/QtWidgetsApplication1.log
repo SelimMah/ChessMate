@@ -1,0 +1,44 @@
+﻿   Qt/MSBuild: 3.3.1.1
+  Reading Qt configuration (E:/App/QT/5.15.2/msvc2019_64/bin/qmake)
+   Qt: 5.15.2
+  uic ChessProject.ui
+  rcc Afficher.qrc
+  moc Display.h
+  gtest-all.cc
+  TestBoard.cpp
+  Display.cpp
+  bibliotheque_cours.cpp
+  verification_allocation.cpp
+  Piece.cpp
+  main.cpp
+C:\Users\selim\OneDrive\Bureau\Git-Portfolio\Projet\Piece.cpp(420,11): warning C4189: 'it' : variable locale initialisée mais non référencée
+C:\Users\selim\OneDrive\Bureau\Git-Portfolio\Projet\Piece.cpp(595,7): warning C4189: 'maxMult' : variable locale initialisée mais non référencée
+E:\App\QT\5.15.2\msvc2019_64\include\QtWidgets\qsizepolicy.h(137,38): warning C5054: opérateur '&' : déprécié entre les énumérations de types différents
+  (compiler le fichier source 'TestBoard.cpp')
+  
+E:\App\QT\5.15.2\msvc2019_64\include\QtWidgets\qsizepolicy.h(138,38): warning C5054: opérateur '&' : déprécié entre les énumérations de types différents
+  (compiler le fichier source 'TestBoard.cpp')
+  
+E:\App\QT\5.15.2\msvc2019_64\include\QtWidgets\qsizepolicy.h(137,38): warning C5054: opérateur '&' : déprécié entre les énumérations de types différents
+  (compiler le fichier source 'Display.cpp')
+  
+E:\App\QT\5.15.2\msvc2019_64\include\QtWidgets\qsizepolicy.h(138,38): warning C5054: opérateur '&' : déprécié entre les énumérations de types différents
+  (compiler le fichier source 'Display.cpp')
+  
+E:\App\QT\5.15.2\msvc2019_64\include\QtWidgets\qsizepolicy.h(137,38): warning C5054: opérateur '&' : déprécié entre les énumérations de types différents
+  (compiler le fichier source 'main.cpp')
+  
+E:\App\QT\5.15.2\msvc2019_64\include\QtWidgets\qsizepolicy.h(138,38): warning C5054: opérateur '&' : déprécié entre les énumérations de types différents
+  (compiler le fichier source 'main.cpp')
+  
+  qrc_Afficher.cpp
+  moc_Display.cpp
+E:\App\QT\5.15.2\msvc2019_64\include\QtWidgets\qsizepolicy.h(137,38): warning C5054: opérateur '&' : déprécié entre les énumérations de types différents
+  (compiler le fichier source 'x64/Debug/qt/moc/moc_Display.cpp')
+  
+E:\App\QT\5.15.2\msvc2019_64\include\QtWidgets\qsizepolicy.h(138,38): warning C5054: opérateur '&' : déprécié entre les énumérations de types différents
+  (compiler le fichier source 'x64/Debug/qt/moc/moc_Display.cpp')
+  
+qtmain.lib(qtmain_win.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'qtmain.lib(qtmain_win.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+     Création de la bibliothèque C:\Users\selim\OneDrive\Bureau\Git-Portfolio\Projet\x64\Debug\QtWidgetsApplication1.lib et de l'objet C:\Users\selim\OneDrive\Bureau\Git-Portfolio\Projet\x64\Debug\QtWidgetsApplication1.exp
+  QtWidgetsApplication1.vcxproj -> C:\Users\selim\OneDrive\Bureau\Git-Portfolio\Projet\x64\Debug\QtWidgetsApplication1.exe
